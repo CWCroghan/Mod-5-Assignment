@@ -61,32 +61,40 @@ The results are summarized in the following table:
 The data were also examined as a time series to look for trends in the total fares on a weekly basis.  The total fare was calculated for each community’s type for each week.  The line plot is presented in Figure 1.
 
 ### Figure 1:
-![This is an image](https://myoctocat.com/assets/images/PyBer_fare_summary.png)
+![Line graph displaying lines for Rural, Urban, and Suburban ride-sharing activity](https://github.com/CWCroghan/Mod-5-Assignment/blob/main/analysis/PyBer_fare_summary.png)
 
 
 ## Summary:
-According to a 2018 Gallup U.S. Poll (https://news.gallup.com/poll/237965/snapshot-uses-ride-sharing-services.aspx):
-  •	“30% of all Americans use ride-sharing services
-  •	45% of those aged 18 to 29 use the services
-  •	Seniors, town/rural residents are least likely to use them”
+
+According to a 2018 Gallup U.S. Poll concerning the use of ride-sharing apps (https://news.gallup.com/poll/237965/snapshot-uses-ride-sharing-services.aspx) "Seniors, town/rural residents are least likely to use them”.
+  
 The Pyber data reflects those findings.
 
 While Pyber has made good penetration into the Urban market, the Suburban market is lagging but still doing well.  The Rural market is struggling.  
 
-The difficulty with the Rural market is threefold.  
+The difficulty with the Rural market is threefold.
+
   1.	The number of drivers available is limited.
+  
   2.	The distance between locations is larger than in urban or Suburban markets.
+  
   3.	The median income for Rural residents is lower than for Urban residents. In addition, the poverty rate is higher for Rural residents than Urban residents. (https://www.census.gov/library/stories/2018/12/differences-in-income-growth-across-united-states-counties.html)
 
 With limited competition and further distances, Rural residents pay more for a ride than Urban residents ($34.62 Rural;  $24.53 Urban)  while having the least resources to pay for those rides.
 
-In addition, there is a great percentage of older residents in Rural communities than in Urban and Suburban communities.  According to the Pew Research organization, “As a group, rural counties skew older than suburban and urban counties: 18% of rural residents are 65 or older vs. 15% in suburban and small metro counties and 13% in cities.”   (https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities/) 
+In addition, there is a great percentage of older residents in Rural communities than in Urban and Suburban communities.  
+
+According to the Pew Research organization, “As a group, rural counties skew older than suburban and urban counties: 18% of rural residents are 65 or older vs. 15% in suburban and small metro counties and 13% in cities.”  (https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities/) 
 
 The combination of poverty, age, and greater distances needed to travel has made up-take of Pyber in Rural communities more challenging.
 
 Our recommendations are that Pyber:
+
   1.	Change its fee algorithm for Rural areas charging less per mile.
+  
   2.	Seek to educate the older populations about the benefits and convenience of ride-sharing.  Perhaps by partnering with some organizations for the elderly residents and offering low-cost transportation.
+  
   3.	Recruit more heavily in Rural communities for drivers with more lucrative employment benefits.
+  
  
 These suggestions might in the short-term result in less revenue generation from Rural communities. In the long-term, better PR and more ridership will show an increase in revenue.
