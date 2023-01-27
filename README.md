@@ -61,7 +61,9 @@ The results are summarized in the following table:
 The data were also examined as a time series to look for trends in the total fares on a weekly basis.  The total fare was calculated for each community’s type for each week.  The line plot is presented in Figure 1.
 
 ### Figure 1:
- 
+![This is an image](https://myoctocat.com/assets/images/PyBer_fare_summary.png)
+
+
 ## Summary:
 According to a 2018 Gallup U.S. Poll (https://news.gallup.com/poll/237965/snapshot-uses-ride-sharing-services.aspx):
   •	“30% of all Americans use ride-sharing services
